@@ -1,4 +1,4 @@
-## Oieee, me chamo Jhully, prazer ☕
+## Oieee, me chamo Jhully ☕
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=date_night&show_icons=true">
