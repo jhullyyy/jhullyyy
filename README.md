@@ -11,6 +11,8 @@
  <img src="https://tenor.com/view/ghibli-studio-ghibli-arrietty-the-secret-world-of-arrietty-gif-1906062508358882306" width="300" height="300" align="right"/>
 </div> 
 
+##
+
 <div> 
   <a href="https://www.linkedin.com/in/jhully-aguiar-60768b28a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
   <a href="https://www.behance.net/jhullyaguiar" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"><a/>
