@@ -8,8 +8,7 @@
  <img align="center" alt="Icone HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"/>
  <img align="center" alt="Icone CSS" height="30" width="40"  src="https://devicon-website.vercel.app/api/css3/original.svg"/>
  <img align="center" alt="Icone JavaScript" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"/>
-<!--  <img src="https://tenor.com/view/ghibli-studio-ghibli-arrietty-the-secret-world-of-arrietty-gif-1906062508358882306" width="300" height="300" align="right"/> -->
-  <div class="tenor-gif-embed" data-postid="18246518" data-share-method="host" data-aspect-ratio="1.3617" data-width="100%"><a href="https://tenor.com/view/driving-gif-18246518">Driving GIF</a>from <a href="https://tenor.com/search/driving-gifs">Driving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src="https://tenor.com/view/driving-gif-18246518" width="300" height="300" align="right"/>
 </div> 
 
 ##
