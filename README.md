@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=moltack&show_icons=true">
 </div>
 <div style="display: inline_block"> <br> 
- <img align="center" alt="Icone HTML" height="30" width="40" src = "https: // devicon-website.vercel.app /api/ html5 / original .svg "/>
+ <img align="center" alt="Icone HTML" height="30" width="40" src = "https://devicon-website.vercel.app/api/html5/original.svg"/>
 
 
 </div>
