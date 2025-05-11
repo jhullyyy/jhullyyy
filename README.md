@@ -1,7 +1,4 @@
 ## Oieee, me chamo Jhully ☕
-<p>"Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível."
- - São Francisco de Assis
-</p> 
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=kacho_ga&show_icons=true">
