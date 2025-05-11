@@ -1,4 +1,7 @@
 ## Oieee, me chamo Jhully ☕
+<p>"Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível."
+ - São Francisco de Assis
+</p> 
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=kacho_ga&show_icons=true">
@@ -18,8 +21,3 @@
   <a href="https://www.behance.net/jhullyaguiar" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"><a/>
   <a href="mailto:jhullyaguiar282@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
 </div>
-
-##
-
-<p>"Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível."</p> 
- - São Francisco de Assis
