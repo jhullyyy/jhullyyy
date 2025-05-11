@@ -20,5 +20,4 @@
 </div>
 
 # "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível."
-<br>
-# -São Francisco de Assis
+# - São Francisco de Assis
