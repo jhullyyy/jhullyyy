@@ -1,7 +1,7 @@
 ## Oieee, me chamo Jhully ☕
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyyy&theme=kacho_ga&show_icons=true">
 </div>
 <div style="display: inline_block"> <br> 
  <img align="center" alt="Icone Figma" height="30" width="40" src="https://devicon-website.vercel.app/api/figma/original.svg"/>
