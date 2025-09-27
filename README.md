@@ -8,7 +8,6 @@
  <img align="right" id="gif" src="https://media1.tenor.com/m/Brzd_6jvLXQAAAAC/driving.gif" width="260" height="200"/>
 </div> 
 
-##
 
 <div> 
   <a href="https://www.linkedin.com/in/jhully-aguiar-60768b28a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
